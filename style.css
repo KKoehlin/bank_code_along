@@ -29,3 +29,24 @@
     min-width: 120px;
     margin-right: 10px;
 }
+
+#amount-input {
+    display: flex;
+}
+
+#amount-input p {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#amount {
+    display: inline-block;
+    margin-left: 5px;
+    height: 38px;
+}
+
+#account-balance {
+    color: #9AB278;
+    font-size: 30px;
+}
+
